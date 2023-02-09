@@ -2,7 +2,7 @@
 
 ![Screen Shot 2022-04-26 at 5 47 29 PM](https://user-images.githubusercontent.com/88349865/165398022-89a9409d-8355-40ee-8694-68424c41f9f0.png)
 
-## [Live Link](https://podify-fsa.herokuapp.com/)
+## [Live Link](https://podify-uih9.onrender.com)
 
 Podify is a fullstack application where users can access, search, and add timestamps & comments for their favorite podcasts.
 
